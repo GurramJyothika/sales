@@ -1,0 +1,5 @@
+streamlit
+pycaret
+matplotlib
+seaborn
+numpy
